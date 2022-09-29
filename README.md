@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Karim Afrit</h1>
 <h3 align="center">I am a backend Web Development Engineer🚀. I am interested in web technologies especially Java with a pang of great hunger for knowledge I am looking for a Web Development job. You can find me on LinkedIn.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" >
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afrit44" alt="afrit44" /></a> </p>
+<img align="center" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
