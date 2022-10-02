@@ -94,13 +94,6 @@
 
 <br/>  
 
-<h3 align="left">Languages and Tools on GitHub:</h3>
-
-<p align="left"> 
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=afrit44&show_icons=true&locale=en&layout=compact" alt="afrit44" /></p>
-
 
 ## &#x1f4c8; GitHub Stats
 
