@@ -3,12 +3,29 @@
 
 <p><img align="center" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Coding" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/med karim afrit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="med karim afrit" height="30" width="40" /></a>
+## :mailbox: How to reach me : 
 
-<a href="https://fb.com/med karim afrit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="med karim afrit" height="30" width="40" /></a>
-</p>
+[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:afrit.karim@gmail.com)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/afrit-karim/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/Afrit44/)
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+
+
+
+<!-- links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/afrit-karim/
+[2]: https://github.com/Afrit44/
+
 
 
 
@@ -77,7 +94,7 @@
 
 <br/>  
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools on GitHub:</h3>
 
 <p align="left"> 
 
@@ -100,28 +117,6 @@
 
 ---
 
-## :mailbox: How to reach me : 
-
-[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:afrit.karim@gmail.com)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/afrit-karim/)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/Afrit44/)
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://www.linkedin.com/in/afrit-karim/
-[2]: https://github.com/Afrit44/
 
 
 
