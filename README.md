@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Karim Afrit</h1>
 <h3 align="center">I am a backend Web Development Engineer🚀. I am interested in web technologies especially Java with a pang of great hunger for knowledge I am looking for a Web Development job. You can find me on LinkedIn.</h3> 
 
-<p><img align="center" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Coding" /></p>
+<p align="center"><img  src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Coding" /></p>
 
 ## :mailbox: How to reach me : 
 
@@ -30,7 +30,7 @@
 
 
 ## Languages and Tools:
-<table><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="33%">
 
 ### Programming & Scripting  
 <div align="center">  
@@ -75,20 +75,12 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   </div>
-
-
-
-
   
 ### Machine learning 
 <div align="center">  
   
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-
-
-
-
 
 </td></tr></table>  
 
@@ -97,10 +89,10 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/Afrit44/Afrit44/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afrit44&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Afrit44/Afrit44/"  >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afrit44&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
+<br>
 <a href="https://github.com/Afrit44/Afrit44/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Afrit44&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Afrit GitHub Stats" />
 </a>
