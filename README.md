@@ -83,3 +83,45 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=afrit44&show_icons=true&locale=en&layout=compact" alt="afrit44" /></p>
+
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/Afrit44/Afrit44/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afrit44&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/Afrit44/Afrit44/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Afrit44&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Afrit GitHub Stats" />
+</a>
+
+
+<br>
+
+---
+
+## :mailbox: How to reach me : 
+
+[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:afrit.karim@gmail.com)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/afrit-karim/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/Afrit44/)
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+
+
+
+<!-- links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/afrit-karim/
+[2]: https://github.com/Afrit44/
+
+
+
