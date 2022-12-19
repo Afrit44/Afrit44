@@ -3,7 +3,7 @@
 <br><br>
 <p align="center"><img  src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Coding" /></p>
 
-## :mailbox: How to reach me : 
+## :mailbox: How you can reach me : 
 
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:afrit.karim@gmail.com)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/afrit-karim/)
